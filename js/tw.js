@@ -2,7 +2,7 @@ class TW {
   constructor() {
     this.queue = []; 
     this.index = 0;   
-	this.dom;
+    this.dom;
     this.cursor = "_";
     this.init();
   }
